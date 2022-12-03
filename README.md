@@ -36,10 +36,15 @@
 
 ### Data Source 
 
-- International Institute for Strategic Studies.
+- International Institute for Strategic Studies
+
    https://en.wikipedia.org/wiki/List_of_countries_by_number_of_military_and_paramilitary_personnel
+   
 - Stockholm International Peace Research Institute
+
    https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures
-- Wikipedia the free encyclopedia. 
+   
+- Wikipedia the free encyclopedia 
+
   https://en.wikipedia.org/wiki/List_of_countries_by_level_of_military_equipment
    
