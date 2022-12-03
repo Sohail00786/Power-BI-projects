@@ -4,14 +4,14 @@
  A military, also known collectively as armed forces, is a heavily armed, highly organized force primarily intended for warfare.The main task of the military is usually defined as defence of the state and its interests against external armed threats.
 
 ### Project Overview
-#### Aim is to Demonstrate Military Distribution by Countries
+### Aim is to Demonstrate Military Distribution by Countries
 - Military Equipment
 - Gross Domestic Product
 - Miltary Budget
 - Soldiers Distribution
 - Per Capita of Total and Active Soldier per 1000
 - Country Spending on Miltary Per Capita
-#### Project is Distributed in Three Stages
+### Project is Distributed in Three Stages
 - Step 1 : Data Extraction 
 - Step 2 : Data Manipulation
 - Step 3 : Data Cleaning
