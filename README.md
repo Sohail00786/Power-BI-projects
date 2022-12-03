@@ -28,9 +28,9 @@
 
 ### Roadmap
 
-- Project started with webscraping the content from wikipedia. used Python, Jupyter Notebook, Openpyxl, Selenium Webdriver
+- Project started with webscraping the content from wikipedia. used Python, Jupyter Notebook, Openpyxl, Selenium Webdriver.
 - After Exctraction next task was to make data clean. Tools used Microsoft Excel.
-- final stage of data preparation was to merge all three dataset, Country Column was Primary Key in all table merged all Excel sheet using inner joi. used Python, Pandas
+- final stage of data preparation was to merge all three dataset, Country Column was Primary Key in all table merged all Excel sheet using inner join. used Python, Pandas.
 - For Data Visualization I used Microsft Power BI.
 
 ### Data Source 
