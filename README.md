@@ -26,7 +26,11 @@ Aim is to Demonstrate Military Distribution by Countries.
 ![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/be0216a9aeab083326aa8d68d0e50dd82f572740/new_1__online-video-cutter_com__AdobeExpress.gif)
 
 ### Top Five Countries
-![Logo]()
+![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/561d26f41140c15b4683923f8be8db6c1e32bd32/Visualization_-_Power_BI_Desktop_2022-12-04_19-47-18__online-video-cutter_com__AdobeExpress%20(1).gif)
+- Population
+- Gross Domestic Product
+- Nuclear Weapons
+- Military Budget
 
 ### Roadmap
 
