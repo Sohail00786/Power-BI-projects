@@ -31,6 +31,8 @@ Aim is to Demonstrate Military Distribution by Countries.
 - Gross Domestic Product
 - Nuclear Weapons
 - Military Budget
+- Military Strength
+- Millitary Satellite
 
 ### Roadmap
 
