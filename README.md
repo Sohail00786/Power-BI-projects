@@ -23,7 +23,7 @@ Aim is to Demonstrate Military Distribution by Countries.
 
 
 ### Dashboard
-![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/b9490878d198f32c0adfdc3b93b572b2da5ffa2d/Dashboard.png)
+![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/94abb49cfe5c20d8b28af605359bed7c5100ad86/Dashboard.gif)
 
 
 ### Roadmap
