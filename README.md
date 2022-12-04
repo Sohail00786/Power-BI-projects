@@ -5,7 +5,8 @@
 
 ### Project Overview
 Aim is to Demonstrate Military Distribution by Countries.
-- Military Equipment
+-  Population
+-  Military Equipment
 - Gross Domestic Product
 - Miltary Budget
 - Soldiers Distribution
