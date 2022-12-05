@@ -38,7 +38,7 @@ Aim is to Demonstrate Military Distribution by Countries.
 ### Roadmap
 
 - Project started with webscraping the content from wikipedia for that I used Python, Jupyter Notebook, Openpyxl, Selenium Webdriver for Data Extraction.
-- After Exctraction next task was to make data clean did some Cleaning using Microsoft Excel.
+- After Extraction next task was to make data clean did some Cleaning using Microsoft Excel.
 - final stage of data preparation was to merge all three dataset and handle null values, Country Column was Primary Key in all table merged all Excel sheet using inner join for this I used Python, Pandas.
 - For Data Visualization I used Microsft Power BI.
 
