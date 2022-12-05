@@ -3,8 +3,6 @@
 ### Introduction 
  A military, also known collectively as armed forces, is a heavily armed, highly organized force primarily intended for warfare.The main task of the military is usually defined as defence of the state and its interests against external armed threats.
 
-It is God’s duty to forgive the enemies, but it’s our duty to convene a meeting between the two.
-
 ### Project is Distributed in Three Stages
 - Step 1 : Data Extraction 
 - Step 2 : Data Manipulation
