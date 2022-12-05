@@ -4,7 +4,7 @@
  A military, also known collectively as armed forces, is a heavily armed, highly organized force primarily intended for warfare.The main task of the military is usually defined as defence of the state and its interests against external armed threats.
 
 ### Project Overview :
-Aim is to Demonstrate Distribution by Countries.
+#### Aim is to Demonstrate Distribution by Countries on Basis of:
 -  Population
 -  Military Equipment
 - Gross Domestic Product
