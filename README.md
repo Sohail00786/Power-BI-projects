@@ -28,9 +28,6 @@ Aim is to Demonstrate Military Distribution by Countries.
 ### Military Information :
 ![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/be0216a9aeab083326aa8d68d0e50dd82f572740/new_1__online-video-cutter_com__AdobeExpress.gif)
 
-
-![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/561d26f41140c15b4683923f8be8db6c1e32bd32/Visualization_-_Power_BI_Desktop_2022-12-04_19-47-18__online-video-cutter_com__AdobeExpress%20(1).gif)
-
 ### Top Five Countries on Basis of :
 - Population
 - Gross Domestic Product
@@ -38,6 +35,9 @@ Aim is to Demonstrate Military Distribution by Countries.
 - Military Budget
 - Military Strength
 - Millitary Satellite
+
+![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/561d26f41140c15b4683923f8be8db6c1e32bd32/Visualization_-_Power_BI_Desktop_2022-12-04_19-47-18__online-video-cutter_com__AdobeExpress%20(1).gif)
+
 
 ### Tools and Libraries Used :
 
@@ -47,7 +47,7 @@ Aim is to Demonstrate Military Distribution by Countries.
 - Microsoft Power BI- 
 - Libraries - Pandas, Selenium Webdriver, Openpyxl.
 
-### Data Source :
+### Web Scraping Data Source :
 
 - International Institute for Strategic Studies
 
