@@ -1,15 +1,15 @@
 
 ## End-To-End Power BI Project 
-### Introduction 
+### Introduction :
  A military, also known collectively as armed forces, is a heavily armed, highly organized force primarily intended for warfare.The main task of the military is usually defined as defence of the state and its interests against external armed threats.
 
-### Project is Distributed in Three Stages
+### Project is Distributed in Three Stages :
 - Step 1 : Data Extraction 
 - Step 2 : Data Manipulation
 - Step 3 : Data Cleaning
 - Step 4 : Data Visualization
 
-### Project Overview
+### Project Overview :
 Aim is to Demonstrate Military Distribution by Countries.
 -  Population
 -  Military Equipment
@@ -25,7 +25,7 @@ Aim is to Demonstrate Military Distribution by Countries.
 
 
 
-### Military Information
+### Military Information :
 ![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/be0216a9aeab083326aa8d68d0e50dd82f572740/new_1__online-video-cutter_com__AdobeExpress.gif)
 
 
@@ -39,7 +39,7 @@ Aim is to Demonstrate Military Distribution by Countries.
 - Military Strength
 - Millitary Satellite
 
-### Tools and Libraries
+### Tools and Libraries Used :
 
 - Python
 - Jupyter Notebook
@@ -47,7 +47,7 @@ Aim is to Demonstrate Military Distribution by Countries.
 - Microsoft Power BI- 
 - Libraries - Pandas, Selenium Webdriver, Openpyxl.
 
-### Data Source 
+### Data Source :
 
 - International Institute for Strategic Studies
 
