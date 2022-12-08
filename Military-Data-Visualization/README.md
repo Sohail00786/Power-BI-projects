@@ -37,6 +37,9 @@
  - A military satellite is an artificial satellite used for a military purpose. The most common missions are intelligence gathering, navigation and military communications.
 
 ### Top Five Countries on Basis of :
+
+![Logo](https://github.com/Sohail00786/Power-BI/blob/3286b4053aad6b0f20b692d618baf238eebf8727/Military-Data-Visualization/Dashboard%202.gif)
+
 #### 1. Population
  
 #### 2. Gross Domestic Product
@@ -49,8 +52,6 @@
  
 #### 6. Millitary Satellite
  
-![Logo](https://github.com/Sohail00786/Power-BI/blob/3286b4053aad6b0f20b692d618baf238eebf8727/Military-Data-Visualization/Dashboard%202.gif)
-
 
 
 
