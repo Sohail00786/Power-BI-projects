@@ -12,7 +12,7 @@
 
 
 ### Military Information : [Click Here for Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWM0YjI4YzgtZjllZS00YzczLWEwYzEtYWZhZWUwYzgzMjlkIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9&pageName=ReportSectione90641e03553077b60d4)
-# ![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/be0216a9aeab083326aa8d68d0e50dd82f572740/new_1__online-video-cutter_com__AdobeExpress.gif)
+# ![Logo](https://github.com/Sohail00786/Power-BI/blob/fd39c283f5c1775826eefcac31982961897ec67c/Military-Data-Visualization/Dashboard%201.gif)
 
 
 
