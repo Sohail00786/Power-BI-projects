@@ -15,10 +15,10 @@
 - Top Five Countries
 
 ### Project is Distributed in Three Stages :
-- Step 1 : Web Scraping 
-- Step 2 : Data Manipulation
-- Step 3 : Data Cleaning
-- Step 4 : Data Visualization
+1 : Web Scraping 
+2 : Data Manipulation
+3 : Data Cleaning
+4 : Data Visualization
 
 
 
