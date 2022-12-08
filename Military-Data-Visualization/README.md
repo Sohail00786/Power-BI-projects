@@ -3,7 +3,19 @@
 ### Introduction :
  A military, also known collectively as armed forces, is a heavily armed, highly organized force primarily intended for warfare.The main task of the military is usually defined as defence of the state and its interests against external armed threats.
 
-### Project Overview :
+### Military Information :
+![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/be0216a9aeab083326aa8d68d0e50dd82f572740/new_1__online-video-cutter_com__AdobeExpress.gif)
+
+### Project is Distributed in Three Stages :
+1. Web Scraping 
+- Extracted Three Different Tables from Wikipedia using Python, Selenium Webdriver, Jupyter Notebook
+2. Data Manipulation
+- Performed Join Operation to Merge all three datatset using Python, Pandas
+3. Data Cleaning
+- Formatted the Dataset using excel
+4. Data Visualization
+- Visualized the Dataset to meaningful Report using Power BI
+
 #### Aim is to Demonstrate Distribution by Countries on Basis of :
 1. Population
 - Population is defined as all nationals present in, or temporarily absent from a country, and aliens permanently settled in a country. This indicator shows the number of people that usually live in an area. Growth rates are the annual changes in population resulting from births, deaths and net migration during the year
@@ -18,34 +30,31 @@
 6. Per Capita of Total and Active Soldier per 1000
 - money spent by a government to provide its military with soldiers.
 7. Country Spending on Miltary Per Capita
-- money spent by a government to provide its military with weapons, equipment, and soldiers.
+- money spent by a government to provide its military with weapons, equipment, and soldiers
+8. Nuclear Weapons
+- nuclear weapon is a device that uses a nuclear reaction to create an explosion. This explosion is much more powerful than that of conventional explosives (like TNT). When a nuclear weapon explodes, it gives off four types of energy: a blast wave, intense light, heat, and radiation.
+9. Military Satellite
+- A military satellite is an artificial satellite used for a military purpose. The most common missions are intelligence gathering, navigation and military communications.
 
-### Project is Distributed in Three Stages :
-1. Web Scraping 
-- Extracted Three Different Tables from Wikipedia using Python, Selenium Webdriver, Jupyter Notebook
-2. Data Manipulation
-- Performed Join Operation to Merge all three datatset using Python, Pandas
-3. Data Cleaning
-- Formatted the Dataset using excel
-4. Data Visualization
-- Visualized the Dataset to meaningful Report using Power BI
-
-
-
-
-
-### Military Information :
-![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/be0216a9aeab083326aa8d68d0e50dd82f572740/new_1__online-video-cutter_com__AdobeExpress.gif)
-
-### Top Five Countries on Basis of :
-1. Population
-2. Gross Domestic Product
-3. Nuclear Weapons
-4. Military Budget
-5. Military Strength
-6. Millitary Satellite
 
 ![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/561d26f41140c15b4683923f8be8db6c1e32bd32/Visualization_-_Power_BI_Desktop_2022-12-04_19-47-18__online-video-cutter_com__AdobeExpress%20(1).gif)
+### Top Five Countries on Basis of :
+1. Population
+- Countries With Highest Population
+2. Gross Domestic Product
+- Countries With Highest GDP
+3. Nuclear Weapons
+- Countries With Highest Nuclear Weapon
+4. Military Budget
+- Countries With Highest Military Budget
+5. Military Strength
+- Countries With Highest Total Soldiers
+6. Millitary Satellite
+- Countries With Highest Military Satellite
+
+
+
+
 
 
 ### Web Scraping Data Source :
