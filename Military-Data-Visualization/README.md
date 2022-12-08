@@ -49,7 +49,7 @@
  
 #### 6. Millitary Satellite
  
-![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/561d26f41140c15b4683923f8be8db6c1e32bd32/Visualization_-_Power_BI_Desktop_2022-12-04_19-47-18__online-video-cutter_com__AdobeExpress%20(1).gif)
+![Logo](https://github.com/Sohail00786/Power-BI/blob/3286b4053aad6b0f20b692d618baf238eebf8727/Military-Data-Visualization/Dashboard%202.gif)
 
 
 
