@@ -12,6 +12,7 @@
 
 
 ### Military Information Dashboard :
+#### Interactive Visuals - https://app.powerbi.com/view?r=eyJrIjoiNWM0YjI4YzgtZjllZS00YzczLWEwYzEtYWZhZWUwYzgzMjlkIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9
 # ![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/be0216a9aeab083326aa8d68d0e50dd82f572740/new_1__online-video-cutter_com__AdobeExpress.gif)
 
 
