@@ -36,21 +36,21 @@
 #### 9. Military Satellite
  - A military satellite is an artificial satellite used for a military purpose. The most common missions are intelligence gathering, navigation and military communications.
 
-
-![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/561d26f41140c15b4683923f8be8db6c1e32bd32/Visualization_-_Power_BI_Desktop_2022-12-04_19-47-18__online-video-cutter_com__AdobeExpress%20(1).gif)
 ### Top Five Countries on Basis of :
 #### 1. Population
- - Countries With Highest Population
+ 
 #### 2. Gross Domestic Product
- - Countries With Highest GDP
+ 
 #### 3. Nuclear Weapons
- - Countries With Highest Nuclear Weapon
+ 
 #### 4. Military Budget
- - Countries With Highest Military Budget
+ 
 #### 5. Military Strength
- - Countries With Highest Total Soldiers
+ 
 #### 6. Millitary Satellite
- - Countries With Highest Military Satellite
+ 
+![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/561d26f41140c15b4683923f8be8db6c1e32bd32/Visualization_-_Power_BI_Desktop_2022-12-04_19-47-18__online-video-cutter_com__AdobeExpress%20(1).gif)
+
 
 
 
