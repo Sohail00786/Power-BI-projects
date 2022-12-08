@@ -4,7 +4,7 @@
 ![logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/9d1d875c856d46b330cd8180ff15abc57845c9ac/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights-main/Tata_Visualization_Dashboard_-_Power_BI_Desktop_2022-12-08_14-44-11_AdobeExpress_AdobeExpress%20(1).gif)
 
 ## Certificate of Completion
-![logo](
+![logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/0ba74b39c19eea542aa0b77b4100908d079a7cb3/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights-main/Certificate.png)
 
 The programme demonstrates the kind of issues dealt with by Tata Insights and Quants every day and makes an effort to imitate the difficulties an individual could have.
 
