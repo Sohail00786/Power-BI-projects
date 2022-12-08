@@ -5,9 +5,9 @@
 
 ### Project Overview :
 #### Aim is to Demonstrate Distribution by Countries on Basis of :
-1.Population
+1. Population
 - Population is defined as all nationals present in, or temporarily absent from a country, and aliens permanently settled in a country. This indicator shows the number of people that usually live in an area. Growth rates are the annual changes in population resulting from births, deaths and net migration during the year
-2 Military Equipment
+2. Military Equipment
 - Military equipment means weapons, arms, military supplies, and equipment that readily may be used for military purposes, including, but not limited to, radar systems or military-grade transport vehicles.
 3. Gross Domestic Product
 - Gross domestic product (GDP) is the standard measure of the value added created through the production of goods and services in a country during a certain period. As such, it also measures the income earned from that production, or the total amount spent on final goods and services (less imports)
