@@ -11,8 +11,7 @@
  - Visualized the Dataset to meaningful Report using Power BI
 
 
-### Military Information Dashboard :
-#### [Interactive Visuals](shorturl.at/oX349)
+### Military Information Dashboard : #### [Click Here for Interactive Visuals](shorturl.at/oX349)
 # ![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/be0216a9aeab083326aa8d68d0e50dd82f572740/new_1__online-video-cutter_com__AdobeExpress.gif)
 
 
