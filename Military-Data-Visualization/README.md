@@ -1,11 +1,5 @@
 
 ## Military Data Visualization 
-### Introduction :
-- #### A military, also known collectively as armed forces, is a heavily armed, highly organized force primarily intended for warfare.The main task of the military is usually defined as defence of the state and its interests against external armed threats.
-
-### Military Information :
-# ![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/be0216a9aeab083326aa8d68d0e50dd82f572740/new_1__online-video-cutter_com__AdobeExpress.gif)
-
 ### Project is Distributed in Three Stages :
 #### 1. Web Scraping 
  - Extracted Three Different Tables from Wikipedia using Python, Selenium Webdriver, Jupyter Notebook
@@ -15,6 +9,12 @@
  - Formatted the Dataset using excel
 #### 4. Data Visualization
  - Visualized the Dataset to meaningful Report using Power BI
+
+
+### Military Information Dashboard :
+# ![Logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/be0216a9aeab083326aa8d68d0e50dd82f572740/new_1__online-video-cutter_com__AdobeExpress.gif)
+
+
 
 ### Aim is to Demonstrate Distribution by Countries on Basis of :
 #### 1. Population
