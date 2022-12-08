@@ -16,10 +16,13 @@
 
 ### Project is Distributed in Three Stages :
 1. Web Scraping 
+- Extracted Three Different Tables from Wikipedia using Python, Selenium Webdriver, Jupyter Notebook
 2. Data Manipulation
+- Performed Join Operation to Merge all three datatset Using Python, Pandas
 3. Data Cleaning
+- Formatted the Dataset using excel
 4. Data Visualization
-
+- Visualized the Dataset to meaningful Report Using Power BI
 
 
 
