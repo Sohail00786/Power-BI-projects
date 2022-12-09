@@ -1,7 +1,7 @@
 
 # Military Data Visualization 
-## Military members sacrifice a lot for the rest of us. The freedom and liberty we enjoy is much because of the brave men and women of the military who dedicate their lives to protecting the nation. For those who risk their lives to protect our freedom, it is a selfless act of valor asking for nothing in return.
-### “If a man hasn’t discovered something that he will die for, he isn’t fit to live.” – Martin Luther King Jr.
+## In current military use, combined operations are operations conducted by forces of two or more allied nations acting together for the accomplishment of a common strategy, a strategic and operational and sometimes tactical cooperation. Interaction between units and formations of the land, naval and air forces, or the cooperation between military and civilian authorities in peacekeeping or disaster relief operations is known as joint operations or interoperability capability.
+
 
 ### Project is Distributed in Three Stages :
 #### 1. Web Scraping 
