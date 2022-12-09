@@ -4,7 +4,7 @@
 ![logo](https://github.com/Sohail00786/Power-BI/blob/c22d91841da9de565267cb04c2e9afe51bea68a9/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights-main/Sales%20dashboard.gif)
 
 ## Certificate of Completion
-![logo]()
+![logo](https://github.com/Sohail00786/Power-BI/blob/bd929c7e75b75495f3f8f54664b95ba94a7a87ef/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights-main/Certificate.png)
 
 The programme demonstrates the kind of issues dealt with by Tata Insights and Quants every day and makes an effort to imitate the difficulties an individual could have.
 
