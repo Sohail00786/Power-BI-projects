@@ -4,6 +4,9 @@
 
 
 
+### Military Information : [Click Here for Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWM0YjI4YzgtZjllZS00YzczLWEwYzEtYWZhZWUwYzgzMjlkIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9&pageName=ReportSectione90641e03553077b60d4)
+![Logo](https://github.com/Sohail00786/Power-BI/blob/98a2dfe652077d375a7a3e2268f4345c5bbbecdd/Untitled.gif)
+
 ### Aim is to Demonstrate Distribution by Countries on Basis of :
 #### 1. Population
  - Population is defined as all nationals present in, or temporarily absent from a country, and aliens permanently settled in a country. This indicator shows the number of people that usually live in an area. Growth rates are the annual changes in population resulting from births, deaths and net migration during the year
@@ -24,9 +27,6 @@
 #### 9. Military Satellite
  - A military satellite is an artificial satellite used for a military purpose. The most common missions are intelligence gathering, navigation and military communications.
 
-
-### Military Information : [Click Here for Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWM0YjI4YzgtZjllZS00YzczLWEwYzEtYWZhZWUwYzgzMjlkIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9&pageName=ReportSectione90641e03553077b60d4)
-![Logo](https://github.com/Sohail00786/Power-BI/blob/98a2dfe652077d375a7a3e2268f4345c5bbbecdd/Untitled.gif)
 
 ### Project is distributed in four steps :
 #### 1. Web Scraping 
