@@ -1,21 +1,6 @@
 
 # Military Data Visualization 
-## In current military use, combined operations are operations conducted by forces of two or more allied nations acting together for the accomplishment of a common strategy, a strategic and operational and sometimes tactical cooperation. Interaction between units and formations of the land, naval and air forces, or the cooperation between military and civilian authorities in peacekeeping or disaster relief operations is known as joint operations or interoperability capability.
-
-
-### Project is Distributed in Three Stages :
-#### 1. Web Scraping 
- - Extracted Three Different Tables from Wikipedia using Python, Selenium Webdriver, Jupyter Notebook
-#### 2. Data Manipulation
- - Performed Join Operation to Merge all three datatset using Python, Pandas
-#### 3. Data Cleaning
- - Formatted the Dataset using excel
-#### 4. Data Visualization
- - Visualized the Dataset to meaningful Report using Power BI
-
-
-### Military Information : [Click Here for Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWM0YjI4YzgtZjllZS00YzczLWEwYzEtYWZhZWUwYzgzMjlkIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9&pageName=ReportSectione90641e03553077b60d4)
-![Logo](https://github.com/Sohail00786/Power-BI/blob/98a2dfe652077d375a7a3e2268f4345c5bbbecdd/Untitled.gif)
+### In current military use, combined operations are operations conducted by forces of two or more allied nations acting together for the accomplishment of a common strategy, a strategic and operational and sometimes tactical cooperation. Interaction between units and formations of the land, naval and air forces, or the cooperation between military and civilian authorities in peacekeeping or disaster relief operations is known as joint operations or interoperability capability.
 
 
 
@@ -38,6 +23,23 @@
  - nuclear weapon is a device that uses a nuclear reaction to create an explosion. This explosion is much more powerful than that of conventional explosives (like TNT). When a nuclear weapon explodes, it gives off four types of energy: a blast wave, intense light, heat, and radiation.
 #### 9. Military Satellite
  - A military satellite is an artificial satellite used for a military purpose. The most common missions are intelligence gathering, navigation and military communications.
+
+
+### Military Information : [Click Here for Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWM0YjI4YzgtZjllZS00YzczLWEwYzEtYWZhZWUwYzgzMjlkIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9&pageName=ReportSectione90641e03553077b60d4)
+![Logo](https://github.com/Sohail00786/Power-BI/blob/98a2dfe652077d375a7a3e2268f4345c5bbbecdd/Untitled.gif)
+
+### Project is distributed in four steps :
+#### 1. Web Scraping 
+ - Extracted Three Different Tables from Wikipedia using Python, Selenium Webdriver, Jupyter Notebook
+#### 2. Data Manipulation
+ - Performed Join Operation to Merge all three datatset using Python, Pandas
+#### 3. Data Cleaning
+ - Formatted the Dataset using excel
+#### 4. Data Visualization
+ - Visualized the Dataset to meaningful Report using Power BI
+
+
+
 
 ### Top Five Countries on Basis of :
 
