@@ -28,16 +28,6 @@
  - A military satellite is an artificial satellite used for a military purpose. The most common missions are intelligence gathering, navigation and military communications.
 
 
-### Project is distributed in four steps :
-#### 1. Web Scraping 
- - Extracted Three Different Tables from Wikipedia using Python, Selenium Webdriver, Jupyter Notebook
-#### 2. Data Manipulation
- - Performed Join Operation to Merge all three datatset using Python, Pandas
-#### 3. Data Cleaning
- - Formatted the Dataset using excel
-#### 4. Data Visualization
- - Visualized the Dataset to meaningful Report using Power BI
-
 
 
 
@@ -57,8 +47,15 @@
  
 #### 6. Millitary Satellite
  
-
-
+### Project is distributed in four steps :
+#### 1. Web Scraping 
+ - Extracted Three Different Tables from Wikipedia using Python, Selenium Webdriver, Jupyter Notebook
+#### 2. Data Manipulation
+ - Performed Join Operation to Merge all three datatset using Python, Pandas
+#### 3. Data Cleaning
+ - Formatted the Dataset using excel
+#### 4. Data Visualization
+ - Visualized the Dataset to meaningful Report using Power BI
 
 
 
