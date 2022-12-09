@@ -1,5 +1,8 @@
 
-## Military Data Visualization 
+# Military Data Visualization 
+## Military members sacrifice a lot for the rest of us. The freedom and liberty we enjoy is much because of the brave men and women of the military who dedicate their lives to protecting the nation. For those who risk their lives to protect our freedom, it is a selfless act of valor asking for nothing in return.
+### “If a man hasn’t discovered something that he will die for, he isn’t fit to live.” – Martin Luther King Jr.
+
 ### Project is Distributed in Three Stages :
 #### 1. Web Scraping 
  - Extracted Three Different Tables from Wikipedia using Python, Selenium Webdriver, Jupyter Notebook
