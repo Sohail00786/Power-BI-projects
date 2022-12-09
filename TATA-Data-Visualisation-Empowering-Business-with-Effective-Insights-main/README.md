@@ -4,7 +4,7 @@
 ![logo](https://github.com/Sohail00786/Power-BI/blob/c22d91841da9de565267cb04c2e9afe51bea68a9/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights-main/Sales%20dashboard.gif)
 
 ## Certificate of Completion
-![logo](https://github.com/Sohail00786/Military-Data-Visualization/blob/0ba74b39c19eea542aa0b77b4100908d079a7cb3/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights-main/Certificate.png)
+![logo](<iframe title="Tata Visualization Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGQwZDYxYWItZDI4My00MjcxLTk1ZGUtN2NlOTIwMjUwYTJkIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9&pageName=ReportSectionb0d2acbcbe4e55dc8c3c" frameborder="0" allowFullScreen="true"></iframe>)
 
 The programme demonstrates the kind of issues dealt with by Tata Insights and Quants every day and makes an effort to imitate the difficulties an individual could have.
 
