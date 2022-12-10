@@ -21,7 +21,7 @@ Social Buzz is a media company :
 ## Certificate of Completion
 ![logo](https://github.com/Sohail00786/Power-BI/blob/0690fc4a03aaf0b330a20c464ed1fdd44f2bee2b/Accenture%20Data%20Analytics/Screenshot%20(28).png)
  
- ### Tools and Libraries :
+ ### Tools and Libraries used :
  - Python
  - Jupyter Notebook
  - Pandas
