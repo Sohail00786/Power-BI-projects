@@ -4,7 +4,7 @@
 ![logo](https://github.com/Sohail00786/Power-BI-projects/blob/22040a9c2a033a24a4f01e7671bfd472202ee22e/Sales%20Insights/D1.gif)
 
 
-![logo]()
+![logo](https://github.com/Sohail00786/Power-BI-projects/blob/6f4854c711b5c69b7084c2e6e83fd09e4bcce9d4/Sales%20Insights/Untitled.gif)
 
 ![logo]()
 
