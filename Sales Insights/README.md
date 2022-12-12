@@ -1,7 +1,7 @@
 # Sales Insights Data Analysis Project
 ## Dashboard : [Click Here for Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTMyYjBjZTItNzM5ZS00MWViLWIwM2QtOWNjMWI4MTkzNjgwIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9)
 
-![logo]()
+![logo](https://github.com/Sohail00786/Power-BI-projects/blob/22040a9c2a033a24a4f01e7671bfd472202ee22e/Sales%20Insights/D1.gif)
 
 
 ![logo]()
