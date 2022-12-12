@@ -1,5 +1,5 @@
 # Sales Insights Data Analysis Project
-## Dashboard ![Click Here For Interactive Version](https://app.powerbi.com/view?r=eyJrIjoiNjcyOTRiMGYtZGIwYy00MDRlLTgzZGItMTZlNjk4NGM4ZmQyIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9)
+## Dashboard ![Click Here For Interactive Version](https://app.powerbi.com/view?r=eyJrIjoiNjcyOTRiMGYtZGIwYy00MDRlLTgzZGItMTZlNjk4NGM4ZmQyIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9&pageName=ReportSection)
 
 
 
