@@ -1,12 +1,12 @@
 # Sales Insights Data Analysis Project
-## Dashboard : [Click Here for Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjcyOTRiMGYtZGIwYy00MDRlLTgzZGItMTZlNjk4NGM4ZmQyIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9&pageName=ReportSection)
+## Dashboard : [Click Here for Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTMyYjBjZTItNzM5ZS00MWViLWIwM2QtOWNjMWI4MTkzNjgwIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9)
 
-![logo](https://github.com/Sohail00786/Power-BI-projects/blob/05248060f13914d34f8e89847e8a4c7614ef0693/Sales%20Insights/D.gif)
+![logo]()
 
 
-![logo](https://github.com/Sohail00786/Power-BI-projects/blob/5432d89fc2d3e20dfc8cabda5583c1a6a23d6dbd/Sales%20Insights/D2.gif)
+![logo]()
 
-![logo](https://github.com/Sohail00786/Power-BI-projects/blob/802014564df2499f1c8368acae7eb220856b1713/Sales%20Insights/Untitled.gif)
+![logo]()
 
 
 ### Data Analysis Using SQL
