@@ -1,7 +1,7 @@
 # Sales Insights Data Analysis Project
 ## Dashboard : [Click Here for Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjcyOTRiMGYtZGIwYy00MDRlLTgzZGItMTZlNjk4NGM4ZmQyIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9&pageName=ReportSection)
 
-![logo](https://github.com/Sohail00786/Power-BI/blob/eb0367dc1e803efcf4a332ed9db2de73537fae43/Accenture%20Data%20Analytics/Screenshot%20(26).png)
+![logo](https://github.com/Sohail00786/Power-BI-projects/blob/edaa6334fbbd3cfdfcff958c98445ffd52ecc708/Sales%20Insights/D1.gif)
 
 
 ![logo](https://github.com/Sohail00786/Power-BI/blob/eb0367dc1e803efcf4a332ed9db2de73537fae43/Accenture%20Data%20Analytics/Screenshot%20(26).png)
