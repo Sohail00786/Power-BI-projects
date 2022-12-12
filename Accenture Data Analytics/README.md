@@ -6,8 +6,7 @@
 
 ![logo](https://github.com/Sohail00786/Power-BI/blob/eb0367dc1e803efcf4a332ed9db2de73537fae43/Accenture%20Data%20Analytics/Screenshot%20(26).png)
 ![logo](https://github.com/Sohail00786/Power-BI/blob/43834fba27e376371091ddea22b604254edf323e/Accenture%20Data%20Analytics/Screenshot%20(27).png)
-## Certificate of Completion
-![logo](https://github.com/Sohail00786/Power-BI/blob/0690fc4a03aaf0b330a20c464ed1fdd44f2bee2b/Accenture%20Data%20Analytics/Screenshot%20(28).png)
+
  
 
 ### Background
@@ -30,6 +29,9 @@ Social Buzz is a media company :
  - Jupyter Notebook
  - Pandas
  - Microsoft Power BI
+ 
+ ## Certificate of Completion
+![logo](https://github.com/Sohail00786/Power-BI/blob/0690fc4a03aaf0b330a20c464ed1fdd44f2bee2b/Accenture%20Data%20Analytics/Screenshot%20(28).png)
 ### Data Source: 
 
 https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664564187354/Task%203_Final%20Content%20Data%20set.csv
