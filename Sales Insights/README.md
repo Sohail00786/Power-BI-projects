@@ -6,7 +6,7 @@
 
 ![logo](https://github.com/Sohail00786/Power-BI-projects/blob/5432d89fc2d3e20dfc8cabda5583c1a6a23d6dbd/Sales%20Insights/D2.gif)
 
-![logo]()
+![logo](https://github.com/Sohail00786/Power-BI-projects/blob/802014564df2499f1c8368acae7eb220856b1713/Sales%20Insights/Untitled.gif)
 
 
 ### Data Analysis Using SQL
