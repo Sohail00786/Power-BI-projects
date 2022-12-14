@@ -8,7 +8,7 @@
 ### Military Information : [Click Here for Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWM0YjI4YzgtZjllZS00YzczLWEwYzEtYWZhZWUwYzgzMjlkIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9&pageName=ReportSectione90641e03553077b60d4)
 ![Logo](https://github.com/Sohail00786/Power-BI/blob/98a2dfe652077d375a7a3e2268f4345c5bbbecdd/Untitled.gif)
 
-![Logo](https://github.com/Sohail00786/Power-BI/blob/3286b4053aad6b0f20b692d618baf238eebf8727/Military-Data-Visualization/Dashboard%202.gif)
+![Logo](https://github.com/Sohail00786/Power-BI-projects/blob/74299531f1ee7db7ee52155f9f2afe5287460c18/Military-Data-Visualization/Untitled.gif)
 
 ### Web Scraping Data Source :
 
