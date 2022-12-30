@@ -1,7 +1,7 @@
 # Tata Data Visualization
 ### The virtual experience programme is provided by Tata iQ or Tata Insights and Quants. I discover how passionate, multidisciplinary experts utilise data visualisation technologies like Tableau and Power BI to take on some of the most difficult business problems and uncover fascinating insights buried in the mountains of produced data. 
 ## Dashboard : [Click Here for Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGU4OWRmNDQtMzVkYy00M2U2LWJiYTYtYmE1NGEyMWVmMjZkIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9)
-![logo](https://github.com/Sohail00786/Power-BI-projects/blob/c2e00f0430782df3db4e91303c8cb0cfc06fda52/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights-main/Untitled.gif)
+![logo](https://github.com/Sohail00786/Microsoft-Power-BI-portfolio/blob/e7187c9df0e3cd1d08492f36a73eb1825a5ca54b/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights-main/Tata%20dashboard%20.gif)
 
 ## Certificate of Completion
 ![logo](https://github.com/Sohail00786/Power-BI/blob/bd929c7e75b75495f3f8f54664b95ba94a7a87ef/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights-main/Certificate.png)
