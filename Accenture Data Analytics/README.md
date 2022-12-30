@@ -4,8 +4,8 @@
 ### Dashboard [Click Here for Interactive Version](https://app.powerbi.com/view?r=eyJrIjoiN2UxNGZmYzEtMzNlYS00YTNhLTlkMGQtOTAwZWI5YTZmMWI1IiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9&pageName=ReportSection)
 
 
-![logo](https://github.com/Sohail00786/Power-BI/blob/eb0367dc1e803efcf4a332ed9db2de73537fae43/Accenture%20Data%20Analytics/Screenshot%20(26).png)
-![logo](https://github.com/Sohail00786/Power-BI/blob/43834fba27e376371091ddea22b604254edf323e/Accenture%20Data%20Analytics/Screenshot%20(27).png)
+![logo](https://github.com/Sohail00786/Microsoft-Power-BI-portfolio/blob/db8a02d84c88ede4171705ed55ae1bb5c209e4e8/Accenture%20Data%20Analytics/Accenture%20.gif)
+
 
  
 
